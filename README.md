@@ -39,8 +39,6 @@ Where P1 to P6 are coordinates of specific facial landmarks around the eye.
    python drowsiness_detection.py
    ```
 
-## Results
-![Screenshot 2024-10-02 152929](https://github.com/user-attachments/assets/38b5c3c7-38e7-49c7-9688-72999daeb2bc)
 
 ## Future Enhancements
 - **Integration with Vehicle Systems**: Connect with vehicle controls to trigger emergency measures.
